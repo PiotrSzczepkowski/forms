@@ -1,0 +1,11 @@
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.csproj.AssemblyReference.cache
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie_math_quiz.Properties.Resources.resources
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.csproj.GenerateResource.cache
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.csproj.CoreCompileInputs.cache
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\bin\Debug\Zadanie math quiz.exe.config
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\bin\Debug\Zadanie math quiz.exe
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\bin\Debug\Zadanie math quiz.pdb
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.exe
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.pdb
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\Zadanie math quiz.exe.config
+C:\Users\mysz3\source\repos\Zadanie math quiz\Zadanie math quiz\obj\Debug\math_quiz.Form1.resources
